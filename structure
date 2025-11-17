@@ -1,0 +1,18 @@
+SmartWalletApp/
+│ App.js
+│ package.json
+│ babel.config.js
+│
+├── screens/
+│   ├── Dashboard.js
+│   ├── Income.js
+│   ├── Expenses.js
+│   ├── Settings.js
+│
+├── components/
+│   ├── PieChart.js
+│   ├── IncomeForm.js
+│   ├── ExpenseForm.js
+│
+└── utils/
+    ├── storage.js
